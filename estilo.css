@@ -6,10 +6,23 @@ body {
 }
 
 h1 {
+    
     color: #0077b6;
 }
+ul {
+        text-align: left;
 
+}
+
+
+footer{
+font-family: Arial, sans-serif;
+    background-color: #e6f7ff;
+    margin: 40px;
+    text-align: left;
+
+}
 img {
     margin-top: 20px;
     max-width: 300px;
-}
+}   
